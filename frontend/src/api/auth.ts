@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:3000";
+const BASE_URL = "https://auth-back-3dcc.onrender.com";
 
 interface SignupData {
   username: string;
